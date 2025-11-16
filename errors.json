@@ -6,18 +6,18 @@
     "atala-prism": {
       "urlWebsite": "https://atalaprism.io/"
     },
-    "anonyome-enterprise-wallet": {
-      "urlWebsite": "https://sudoplatform.com/verifiable-credentials/"
+    "dock-wallet": {
+      "urlAppStore": "https://apps.apple.com/ph/app/dock-wallet/id1565227368",
+      "urlGooglePlayStore": "https://play.google.com/store/apps/details?id=com.dockapp"
+    },
+    "endorser-mobile": {
+      "urlGooglePlayStore": "https://play.google.com/store/apps/details?id=ch.endorser.mobile"
     },
     "anonyome-wallet": {
       "urlWebsite": "https://sudoplatform.com/identity-wallet/"
     },
-    "dock-wallet": {
-      "urlGooglePlayStore": "https://play.google.com/store/apps/details?id=com.dockapp",
-      "urlAppStore": "https://apps.apple.com/ph/app/dock-wallet/id1565227368"
-    },
-    "endorser-mobile": {
-      "urlGooglePlayStore": "https://play.google.com/store/apps/details?id=ch.endorser.mobile"
+    "anonyome-enterprise-wallet": {
+      "urlWebsite": "https://sudoplatform.com/verifiable-credentials/"
     },
     "gimly": {
       "urlWebsite": "https://gimly.io/"
@@ -27,9 +27,6 @@
     },
     "paradym-wallet": {
       "urlWebsite": "https://docs.paradym.id/integrating-with-a-holder-wallet/paradym-wallet"
-    },
-    "mykeepin": {
-      "urlWebsite": "https://metadium.com/Portfolio/DApp/Wallet"
     },
     "swisssign-wallet": {
       "urlWebsite": "https://www.swisssign.com/en/identities/wallet/",
@@ -41,27 +38,25 @@
       "downloadSource": "https://github.com/trinsic-id/wallet-reference-app"
     },
     "verida": {
+      "urlGooglePlayStore": "https://play.google.com/store/apps/details?id=io.verida.vault",
       "urlAppStore": "https://apps.apple.com/tr/app/verida-wallet/id1546599632",
-      "urlGooglePlayStore": "https://play.google.com/store/apps/details?id=io.verida.vault"
+      "urlWebsite": "https://www.verida.io/"
     },
-    "mattr-wallet": {
-      "urlWebsite": "https://learn.mattr.global/tutorials/wallets/overview"
-    },
-    "spherity-wallet": {
-      "urlWebsite": "https://www.spherity.com/enterprise-identity-wallet"
+    "mykeepin": {
+      "urlWebsite": "https://metadium.com/Portfolio/DApp/Wallet"
     },
     "vidua": {
       "urlWebsite": "https://vidua.nl/english/"
     },
+    "spherity-wallet": {
+      "urlWebsite": "https://www.spherity.com/enterprise-identity-wallet"
+    },
+    "mattr-wallet": {
+      "urlWebsite": "https://learn.mattr.global/tutorials/wallets/overview"
+    },
     "essif-wallet": {
       "urlWebApp": "https://wallet.essif.sk/",
       "urlWebsite": "https://docs.essif.sk/en/home-english/"
-    },
-    "orbit-edge-wallet": {
-      "urlWebsite": "https://northernblock.io/orbit-edge-wallet/"
-    },
-    "orbit-enterprise": {
-      "urlWebsite": "https://northernblock.io/orbit-enterprise/"
     }
   }
 }
