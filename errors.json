@@ -6,15 +6,15 @@
     "atala-prism": {
       "urlWebsite": "https://atalaprism.io/"
     },
+    "anonyome-enterprise-wallet": {
+      "urlWebsite": "https://sudoplatform.com/verifiable-credentials/"
+    },
     "anonyome-wallet": {
       "urlWebsite": "https://sudoplatform.com/identity-wallet/"
     },
     "dock-wallet": {
       "urlGooglePlayStore": "https://play.google.com/store/apps/details?id=com.dockapp",
       "urlAppStore": "https://apps.apple.com/ph/app/dock-wallet/id1565227368"
-    },
-    "anonyome-enterprise-wallet": {
-      "urlWebsite": "https://sudoplatform.com/verifiable-credentials/"
     },
     "endorser-mobile": {
       "urlGooglePlayStore": "https://play.google.com/store/apps/details?id=ch.endorser.mobile"
@@ -55,17 +55,17 @@
     "mattr-wallet": {
       "urlWebsite": "https://learn.mattr.global/tutorials/wallets/overview"
     },
-    "spherity-wallet": {
-      "urlWebsite": "https://www.spherity.com/enterprise-identity-wallet"
-    },
     "vidua": {
       "urlWebsite": "https://vidua.nl/english/"
     },
-    "orbit-edge-wallet": {
-      "urlWebsite": "https://northernblock.io/orbit-edge-wallet/"
+    "spherity-wallet": {
+      "urlWebsite": "https://www.spherity.com/enterprise-identity-wallet"
     },
     "preparese-mobile": {
       "urlWebsite": "https://www.preparese.info/"
+    },
+    "walt.id": {
+      "urlWebApp": "https://wallet.walt.id/"
     }
   }
 }
