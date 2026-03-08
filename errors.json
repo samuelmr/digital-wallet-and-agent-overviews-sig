@@ -10,18 +10,18 @@
       "urlGooglePlayStore": "https://play.google.com/store/apps/details?id=com.dockapp",
       "urlAppStore": "https://apps.apple.com/ph/app/dock-wallet/id1565227368"
     },
-    "anonyome-enterprise-wallet": {
-      "urlWebsite": "https://sudoplatform.com/verifiable-credentials/"
-    },
     "anonyome-wallet": {
       "urlWebsite": "https://sudoplatform.com/identity-wallet/"
     },
     "endorser-mobile": {
       "urlGooglePlayStore": "https://play.google.com/store/apps/details?id=ch.endorser.mobile"
     },
+    "anonyome-enterprise-wallet": {
+      "urlWebsite": "https://sudoplatform.com/verifiable-credentials/"
+    },
     "essif-wallet": {
-      "urlWebsite": "https://docs.essif.sk/en/home-english/",
-      "urlWebApp": "https://wallet.essif.sk/"
+      "urlWebApp": "https://wallet.essif.sk/",
+      "urlWebsite": "https://docs.essif.sk/en/home-english/"
     },
     "gimly": {
       "urlWebsite": "https://gimly.io/"
@@ -29,14 +29,14 @@
     "organization-wallet": {
       "urlWebsite": "https://orgwallet.de/en/"
     },
-    "preparese-mobile": {
-      "urlWebsite": "https://www.preparese.info/"
-    },
     "paradym-wallet": {
       "urlWebsite": "https://docs.paradym.id/integrating-with-a-holder-wallet/paradym-wallet"
     },
     "mykeepin": {
       "urlWebsite": "https://metadium.com/Portfolio/DApp/Wallet"
+    },
+    "preparese-mobile": {
+      "urlWebsite": "https://www.preparese.info/"
     },
     "swisssign-wallet": {
       "companyUrl": "https://swisssign.com",
