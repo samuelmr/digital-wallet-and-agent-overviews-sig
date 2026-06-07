@@ -26,6 +26,12 @@
     "gimly": {
       "urlWebsite": "https://gimly.io/"
     },
+    "gataca": {
+      "urlWebsite": "https://gataca.io/products/wallet/"
+    },
+    "gataca-studio": {
+      "urlWebsite": "https://gataca.io/products/gatacaStudio/"
+    },
     "organization-wallet": {
       "urlWebsite": "https://orgwallet.de/en/"
     },
@@ -42,18 +48,21 @@
       "companyUrl": "https://swisssign.com",
       "urlWebsite": "https://www.swisssign.com/en/identities/wallet/"
     },
+    "sowl": {
+      "urlWebsite": "https://esatus.com/en/digital-identity/"
+    },
     "trisic-id": {
       "urlGooglePlayStore": "https://play.google.com/store/apps/details?id=id.streetcred.apps.mobile",
       "urlAppStore": "https://apps.apple.com/us/app/trinsic-id/id1475160728",
       "downloadSource": "https://github.com/trinsic-id/wallet-reference-app",
       "urlWebsite": "https://trinsic.id/an-introduction-to-the-trinsic-wallet/"
     },
-    "sowl": {
-      "urlWebsite": "https://esatus.com/en/digital-identity/"
+    "mattr-wallet": {
+      "urlWebsite": "https://learn.mattr.global/tutorials/wallets/overview"
     },
     "verida": {
-      "urlGooglePlayStore": "https://play.google.com/store/apps/details?id=io.verida.vault",
       "urlAppStore": "https://apps.apple.com/tr/app/verida-wallet/id1546599632",
+      "urlGooglePlayStore": "https://play.google.com/store/apps/details?id=io.verida.vault",
       "urlWebsite": "https://www.verida.io/"
     },
     "sphereon-wallet": {
@@ -62,17 +71,14 @@
     "vidua": {
       "urlWebsite": "https://vidua.nl/english/"
     },
-    "mattr-wallet": {
-      "urlWebsite": "https://learn.mattr.global/tutorials/wallets/overview"
-    },
     "spherity-wallet": {
       "urlWebsite": "https://www.spherity.com/enterprise-identity-wallet"
     },
-    "gataca-studio": {
-      "urlWebsite": "https://gataca.io/products/gatacaStudio/"
-    },
     "trisic-platform": {
       "urlWebsite": "https://trinsic.id/platform/"
+    },
+    "selfkey-wallet": {
+      "urlGooglePlayStore": "https://selfkey.org/selfkey-wallet-android-download"
     },
     "walt.id": {
       "urlWebApp": "https://wallet.walt.id/"
